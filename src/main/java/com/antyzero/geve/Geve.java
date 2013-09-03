@@ -7,4 +7,12 @@ package com.antyzero.geve;
  */
 
 public class Geve {
+
+    private void parseXml(){
+
+    }
+
+    private void getResponse(){
+
+    }
 }
